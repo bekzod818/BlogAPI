@@ -9,6 +9,8 @@ djangorestframework = "*"
 dj-rest-auth = "*"
 django-allauth = "*"
 environs = {extras = ["django"], version = "*"}
+pyyaml = "*"
+uritemplate = "*"
 
 [dev-packages]
 
